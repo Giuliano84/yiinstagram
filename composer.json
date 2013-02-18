@@ -1,0 +1,13 @@
+{
+    "name" : "giulianoiacobelli/yiinstagram",
+    "type": "yiinstagram-extension",
+    "description": "Yii framework extension for Instagram API",
+    "keywords": ["framework", "web", "instagram", "api"],
+    "homepage": "http://instagram.com/developer",
+    "authors": [
+        {
+            "name": "Giuliano Iacobelli",
+            "email": "giuliano.iacobelli@gmail.com"
+        }
+    ]
+}
